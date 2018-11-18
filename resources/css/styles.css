@@ -1,0 +1,126 @@
+.active {
+    background-color:#F5F5F5;
+}
+.glyphicon-red {
+  color:#C50B0B;
+}
+.glyphicon-blue {
+  color:#428BCA;
+}
+.glyphicon-green {
+  color:#037E0E;
+}
+.glyphicon-shaded {
+  color:#CECECE;
+}
+.glyphicon-shaded-red {
+  color:#CECECE;
+}
+.glyphicon-shaded-red:hover {
+  color:#C50B0B;
+}
+.sqlDetailContainer {
+  margin-top:10px;
+}
+.delete-field{
+  width: 15px;
+  position: absolute;
+  min-height: 15px;
+  margin-top: 6px;
+  margin-left: 5px;
+  cursor:pointer;
+}
+
+.error-container {
+  position: relative;
+}
+.error-message {
+  border: 1px #ff0000 solid;
+  border-radius: 6px;
+  padding: 0px 5px 0px 5px;
+  margin-bottom: 3px;
+  color: #ff0000;
+  display: none;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+}
+.delete-field i{
+  display: none;
+}
+.delete-field:hover i{
+  display: block;
+}
+.navbar-static-top {
+  margin-bottom:20px;
+}
+
+i {
+  font-size:18px;
+}
+  
+footer {
+  margin-top:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color:#efefef;
+}
+.user-name {
+  font-weight:bold;
+}
+.input-group-addon, .input-group-btn {
+  width: 38%;
+  vertical-align: baseline;
+}
+.on-off-btn {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select:none;
+  user-select:none;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 7px;
+  padding-left: 7px;
+  border-radius: 5px;
+  border-right: 2px solid green;
+  border-bottom: 2px solid green;
+  cursor: pointer;
+  background-color: #CECECE;
+  border-color: #9A9A9A;
+}
+.on {
+  background-color: #428bca;
+  border-color: #357ebd;
+}
+.form-group-hr{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.navbar-brand {
+  padding:7px 7px !important;
+}
+
+.logo-container {
+  width:50px;
+  height:50px;
+  position:relative;
+}
+.logo {
+  position:absolute;
+}
+.nav>li .count {
+  position: absolute;
+  top: 10%;
+  right: 25%;
+  font-size: 10px;
+  font-weight: normal;
+  background: rgba(41,200,41,0.75);
+  color: rgb(255,255,255);
+  line-height: 1em;
+  padding: 2px 4px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}

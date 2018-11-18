@@ -1,0 +1,1001 @@
+id:first name:last name:Country
+1:Bhakti:Abhaya:Maldives 
+2:Amshula:Abhitha:Bangui
+3:Amrutha:Anjini:Kingstown
+4:Alpa:Amithi:Equatorial Guinea 
+5:Akshi:Amshula:Russia 
+6:Bheema:Amrutha:Tonga 
+7:Bimbi:Bela:South Sudan 
+8:Amaris:Aarti:Tanzania 
+9:Akshi:Bhavika:Panama 
+10:Alankrita:Anjalee:Al-Manamah
+11:Bhama:Amla:Copenhagen
+12:Akhila:Bhandhavi:Bridgetown
+13:Aasha:Akula:Japan 
+14:Bhadrusha:Ambuja:Nuku'alofa
+15:Bhandhavi:Anemone:United States of America 
+16:Abhirami:Bhuvi:Antananarivo
+17:Alankrita:Alpita:Ukraine 
+18:Bimbi:Aarohi:Sri Lanka 
+19:Amita:Bakul:Palikir
+20:Ananti:Ablaa:Podgorica
+21:Anandita:Amritrashmi:Australia 
+22:Adhishree:Bhamini:Wellington
+23:Amiya:Advika:Maldives 
+24:Ami:Ananti:Valletta
+25:Aloki:Achira:Equatorial Guinea 
+26:Bhanu:Aarohi:Niger 
+27:Angha:Beena:Hanoi
+28:Beena:Amrutha:Muscat
+29:Belli:Bishakha:Guinea 
+30:Achla:Bakul:Antigua & Barbuda 
+31:Anasuya:Ambuja:Abuja
+32:Akshara:Bahugandha:Mexico City
+33:Abirami:Aathmika:New Zealand 
+34:Anavi:Bhanusri:Maldives 
+35:Amal:Bhamini:Nicaragua 
+36:Bhupali:Amrutha:Sanaa
+37:Aashna:Aadita:Riga
+38:Aaloka:Bhandhavi:Seoul
+39:Andal:Amritkala:Ghana 
+40:Anahita:Aarna:Abu Dhabi
+41:Amolika:Bela:Kingstown
+42:Aashi:Aasha:Dushanbe
+43:Abhisarika:Bhooma:Bosnia & Herzegovina 
+44:Abhimani:Alpana:Khartoum
+45:Anjini:Abhitha:Al-Manamah
+46:Akuti:Brahmani:Luxembourg 
+47:Amiti:Amiya:Monaco
+48:Bhamini:Briti:Haiti 
+49:Bodhi:Anbar:Paramaribo
+50:Amrusha:Adya:Cote d'Ivoire 
+51:Agrata:Bhadra:Vietnam 
+52:Ankal:Adishakti:Czech Republic 
+53:Amisha:Anisa:Dushanbe
+54:Alpita:Bharati:Doha
+55:Aniya:Amisha:Romania 
+56:Anantaa:Alekhya:Leste
+57:Beena:Aashalata:Zambia 
+58:Akshata:Ankaiyarkanni:Skopje
+59:Bhagirathi:Ahalya:Madrid
+60:Bhuvi:Aanandita:Vatican City (Holy See) 
+61:Angana:Angoori:Valletta
+62:Ankaiyarkanni:Bhawna:Pristina
+63:Angoori:Angoori:Santiago
+64:Amita:Amba:Bogota
+65:Anjini:Bhandhavi:Thailand 
+66:Anbar:Bahugandha:Japan 
+67:Anbar:Bharavi:Micronesia 
+68:Baka:Aishi:Majuro
+69:Brinda:Anandani:Pretoria (executive); Cape Town (leg
+70:Bhagavathi:Alak:Cairo
+71:Bhooma:Abhijaata:Malta 
+72:Anaamika:Beena:Chad 
+73:Agrata:Ankaiyarkanni:Belarus 
+74:Amshula:Abhira:Cape Verde 
+75:Bhanuja:Ami:Baghdad
+76:Aanchal:Anjana:London
+77:Aashi:Anamika:Montenegro 
+78:Anantaa:Amba:Togo 
+79:Bhakti:Bhairavi:Austria 
+80:Briti:Achira:Mexico City
+81:Alankrita:Bhamini:Nigeria 
+82:Aanandita:Bharavi:Austria 
+83:Anjani:Aashni:Tashkent
+84:Bryn:Amla:Tripoli
+85:Barsha:Ajita:Abu Dhabi
+86:Analaa:Bhanuni:Gabon 
+87:Adwita:Ahalya:Monrovia
+88:Bijal:Bodhi:Mauritius 
+89:Andal:Brijabala:Conakry
+90:Bavishya:Aathmika:Iceland 
+91:Amidi:Aamaal:Vaduz
+92:Anjum:Ahladita:Praia
+93:Anaamika:Aanchal:Samoa 
+94:Amishi:Aditri:Khartoum
+95:Abhimani:Basabi:San Jose
+96:Aadrika:Amritaya:Lisbon
+97:Anita:Akuti:Khartoum
+98:Bhawna:Bhagwati:Bangkok
+99:Bhanuja:Analaa:Botswana 
+100:Alpana:Anasuya:Jakarta
+101:Abhipsa:Anita:Somalia 
+102:Amvi:Aarohi:Belgium 
+103:Babita:Alekhya:Syria 
+104:Aahlaadita:Akriti:Mogadishu
+105:Bindu:Aanandamayee:Congo Democratic Republic of the 
+106:Ajaa:Bishakha:Algeria 
+107:Adwita:Bhavika:Saint Kitts and Nevis 
+108:Alisha:Alpana:Suriname 
+109:Ankita:Bakula:Ljubljana
+110:Amrusha:Bryn:Dushanbe
+111:Aadita:Amrutha:Djibouti 
+112:Angoori:Abhilasha:Tegucigalpa
+113:Bhanuja:Aaratrika:Astana
+114:Aashalata:Amiya:Suva
+115:Anamika:Anandita:Equatorial Guinea 
+116:Aghanashini:Anemone:Mexico City
+117:Ambaalika:Amithi:South Africa 
+118:Ajaa:Bahula:Sanaa
+119:Anandi:Bhavya:Bulgaria 
+120:Anarghya:Amithi:Tripoli
+121:Amla:Anbar:Seychelles 
+122:Anandi:Bhupali:Basseterre
+123:Aabha:Amlika:Albania 
+124:Akshadha:Aashna:Jerusalem
+125:Adhira:Barkha:Tanzania 
+126:Abhirami:Ajaya:Togo 
+127:Aarti:Adwita:East Timor 
+128:Agriya:Ajala:Dar es Salaam; Dodoma (legislative)
+129:Aashna:Ammu:Morocco 
+130:Ankita:Anchala:Nepal 
+131:Anandi:Bhooma:Qatar 
+132:Anju:Aarti:Andorra la Vella
+133:Bhama:Aashalata:Belgium 
+134:Anantaa:Amba:Tripoli
+135:Amvi:Brahmani:Bahamas 
+136:Anarghya:Bhoomi:Sao Tome and Principe 
+137:Beena:Bhavika:Rangoon (Yangon); Nay Pyi Taw (admin
+138:Anandi:Bhanuja:Korea South 
+139:Angaja:Adishakti:Bahrain 
+140:Bheema:Ambu:Bogota
+141:Anandita:Abhisarika:Slovenia 
+142:Ami:Aanandita:Kiribati 
+143:Adhira:Bhama:Antigua & Barbuda 
+144:Amvi:Aanchal:Gabon 
+145:Beena:Barsha:Afghanistan 
+146:Aadhya:Amrusha:Cameroon 
+147:Anantaa:Ajaa:Andorra la Vella
+148:Alekhya:Anamitra:Moldova 
+149:Bageshri:Alopa:Phnom Penh
+150:Bindhiya:Anantaa:Bosnia & Herzegovina 
+151:Ambu:Aditri:Marshall Islands 
+152:Amritkala:Anjana:Colombia 
+153:Angha:Ambar:Mauritius 
+154:Akashleena:Akshayaa:Ottawa
+155:Ajaya:Abhijita:San Jose
+156:Anika:Akashleena:Honiara
+157:Aakriti:Beena:Comoros 
+158:Bhanu:Angira:Romania 
+159:Anandmayee:Aaloka:Romania 
+160:Bageshri:Analaa:Vaduz
+161:Ambar:Abhijaata:Australia 
+162:Aishwarya:Aanandi:Monaco 
+163:Baijanti:Bhanu:Zambia 
+164:Ajaa:Abhimani:Rangoon (Yangon); Nay Pyi Taw (admin
+165:Achira:Ananti:Luanda
+166:Aishani:Abhitha:Andorra la Vella
+167:Aarohi:Aarti:Botswana 
+168:Bahugandha:Adya:Jakarta
+169:Aanandi:Alpa:Angola 
+170:Amara:Aastha:Santiago
+171:Agriya:Abhirami:Caracas
+172:Bahula:Amishta:Havana
+173:Aatmaja:Anamika:Cyprus 
+174:Agrima:Achira:Trinidad and Tobago 
+175:Akula:Anjika:Bridgetown
+176:Anishka:Aabharana:Jamaica 
+177:Bhagwanti:Abishta:Thailand 
+178:Anjika:Amritambu:Switzerland 
+179:Babita:Amitjyoti:Mexico City
+180:Anilaja:Benaka:Niamey
+181:Aamaal:Aniha:Saudi Arabia 
+182:Amritambu:Bharavi:no official capital; government offi
+183:Abishta:Bhagwati:Chile 
+184:Aaral:Ajala:Israel 
+185:Banmala:Alaina:Andorra 
+186:Bharati:Aniya:Oman 
+187:Aarini:Amrapali:Canberra
+188:Aboli:Anandita:Vanuatu 
+189:Bimala:Bryn:Nairobi
+190:Abhitha:Bharavi:Vienna
+191:Bharavi:Barkha:Juba
+192:Aamaal:Anjika:Singapore 
+193:Adya:Barsha:Estonia 
+194:Aarti:Bhuvana:Brazzaville
+195:Ambika:Aaniya:Zambia 
+196:Bhamini:Bani:Freetown
+197:Bhakti:Aanandita:Mauritania 
+198:Aarna:Abhisarika:Saint Lucia 
+199:Aja:Alda:Kyrgyzstan 
+200:Bageshri:Aahna:Tunisia 
+201:Aasia:Anjalee:Luxembourg 
+202:Bhamini:Abhipsa:Seoul
+203:Achla:Anarghya:Tuvalu 
+204:Banni:Bhakti:Banjul
+205:Ankita:Aarohi:Roseau
+206:Basabi:Amidi:Malabo
+207:Alaka:Alka:Cambodia 
+208:Amoda:Bhavana:Lebanon 
+209:Adrika:Ankal:Ljubljana
+210:Bhrithi:Agriya:Lebanon 
+211:Achira:Amaldeepti:Liberia 
+212:Adhira:Aabha:Paraguay 
+213:Anandita:Bhanuja:Montenegro 
+214:Aahlaadita:Alaka:Colombo; Sri Jayewardenepura Kotte (
+215:Aabharana:Abhisarika:Gabon 
+216:Ambar:Aamaal:Brunei 
+217:Anju:Anjika:Czech Republic 
+218:Angarika:Aaloka:Ukraine 
+219:Amolika:Akshata:Tripoli
+220:Bhavya:Bimala:Sarajevo
+221:Aadita:Bakul:Bernd
+222:Banhi:Binita:Athens
+223:Bansari:Achala:Tegucigalpa
+224:Alankrita:Akanksha:Senegal 
+225:Aarti:Bhavi:Morocco 
+226:Aatmaja:Amala:Washington D.C.
+227:Aadrika:Ajaa:South Sudan 
+228:Aarna:Amaldeepti:Bratislava
+229:Bavishni:Amolika:Yerevan
+230:Adhira:Angana:Guatemala 
+231:Bhuvana:Amrusha:Senegal 
+232:Amaldeepti:Ambar:Bolivia 
+233:Amla:Anasuya:Vaiaku village, Funafuti province
+234:Aanchal:Alaina:Porto-Novo
+235:Alisha:Alopa:Canada 
+236:Ajaya:Ambaalika:Ethiopia 
+237:Abhiruchi:Bhargavi:Algiers
+238:Aniha:Aditri:Kuwait 
+239:Ankita:Akshi:Pretoria (executive); Cape Town (leg
+240:Aboli:Aniha:India 
+241:Anchita:Anjika:Kazakhstan 
+242:Aasha:Bhagwanti:Uzbekistan 
+243:Abhipsa:Bipasha:Tokyo
+244:Bala:Aahna:Denmark 
+245:Aanandita:Bulbul:Estonia 
+246:Abhijita:Bhagirathi:Israel 
+247:Bairavi:Aasia:Niamey
+248:Anamitra:Bhagwanti:Nepal 
+249:Amritkala:Aadhya:Astana
+250:Anjika:Bhagyawati:New Delhi
+251:Alisha:Ambuja:Korea South 
+252:Anarghya:Ankal:Canada 
+253:Achala:Aaloka:Ankara
+254:Bijal:Beena:Beirut
+255:Amrapali:Agnishikha:Kiribati 
+256:Abhilasha:Amritkala:Paraguay 
+257:Anjani:Benaka:Colombo; Sri Jayewardenepura Kotte (
+258:Barsha:Aahlaadita:Palikir
+259:Aathmika:Abhirami:Bernd
+260:Akane:Angana:Moscow
+261:Amla:Aditi:Syria 
+262:Aditri:Aathmika:Moroni
+263:Achira:Aaniya:Benin 
+264:Akshata:Ankolika:Saudi Arabia 
+265:Ammu:Adishakti:Angola 
+266:Bahugandha:Anantaa:Bratislava
+267:Ankita:Aatmaja:Laos 
+268:Aashna:Aadrika:Sanaa
+269:Aarti:Amiti:Thimphu
+270:Anchal:Aniha:Pyongyang
+271:Ananda:Anjana:Amsterdam
+272:Adya:Ambika:Kuwait City
+273:Bidisha:Bhanumati:Islamabad
+274:Aishi:Akshainie:Sanaa
+275:Aabharana:Anishka:Ljubljana
+276:Babita:Alaka:Madrid
+277:Amukta:Ajala:Ashgabat
+278:Ambuda:Bipasha:Mexico City
+279:Amritaya:Abhimani:Korea North 
+280:Aaniya:Aamani:London
+281:Binita:Aakanksha:Tunis
+282:Ambuda:Abhijaata:Lesotho 
+283:Agrata:Ananti:Philippines 
+284:Bhagyawati:Abishta:Romania 
+285:Akira:Anandi:Tarawa Atoll
+286:Aaloka:Adhishree:Dhaka
+287:Abhisarika:Aamaal:Lithuania 
+288:Amlankusum:Bhanupriya:Skopje
+289:Aahna:Aasha:Mbabane
+290:Agamya:Angha:Nicosia
+291:Anandita:Ankaiyarkanni:Armenia 
+292:Anagha:Aashiyana:Denmark 
+293:Aadita:Akshata:Kathmandu
+294:Abishta:Amitjyoti:Brazzaville
+295:Bhadrusha:Bryn:Chisinau
+296:Achala:Anagha:Gambia 
+297:Bhamini:Adhira:Dushanbe
+298:Alda:Bhairavi:Liechtenstein 
+299:Anchita:Aashni:Colombia 
+300:Angaja:Amrutha:Pretoria (executive); Cape Town (leg
+301:Aanandamayee:Baka:Fiji 
+302:Aarika:Bhuvi:Guinea 
+303:Anjini:Aastha:Zambia 
+304:Abhilasha:Basabi:Kabul
+305:Aarika:Amrita:Belmopan
+306:Bakula:Amlika:Papua New Guinea 
+307:Alisha:Amla:Sudan 
+308:Agamya:Bala:Mexico City
+309:Ankal:Analaa:Nicosia
+310:Alpita:Adhira:Tashkent
+311:Bheema:Bahula:Oslo
+312:Aditi:Aashiyana:Cyprus 
+313:Aaloka:Amukta:Uruguay 
+314:Baijanti:Ankaiyarkanni:Eritrea 
+315:Amlika:Anandani:Riga
+316:Aarika:Agrima:Armenia 
+317:Aashi:Bansari:Syria 
+318:Amlika:Bimbi:Burundi 
+319:Aanandita:Amitjyoti:Andorra la Vella
+320:Anchal:Aniha:La Paz (administrative); Sucre (judi
+321:Ambaalika:Akshita:Equatorial Guinea 
+322:Aahlaadita:Bindu:Micronesia 
+323:Banni:Agrima:Costa Rica 
+324:Aditri:Aishani:Rabat
+325:Andal:Akhila:Banjul
+326:Anamika:Akanksha:Leste
+327:Aarti:Barkha:Juba
+328:Anemone:Anjali:Luxembourg
+329:Ambaalika:Bhavna:Myanmar (Burma) 
+330:Ajaa:Amisha:Kabul
+331:Aadita:Anilaja:Botswana 
+332:Anjalee:Aapti:Tripoli
+333:Bhakti:Alankrita:Tuvalu 
+334:Amritrashmi:Bhanumati:Abidjan
+335:Aashiyana:Amlika:Tripoli
+336:Ana:Anjalee:Norway 
+337:Aashalata:Bahula:Turkey 
+338:Alopa:Amala:Burundi 
+339:Ananya:Ahladita:Brussels
+340:Ambuja:Anita:Sweden 
+341:Bhumika:Amrapali:Colombia 
+342:Akshata:Amrita:Peru 
+343:Bhagyawati:Almas:Mauritania 
+344:Amala:Bhanuja:Brazzaville
+345:Amshula:Amrapali:Rome
+346:Anindita:Amritambu:Swaziland 
+347:Bhumika:Ananda:Lome
+348:Akshata:Aamaal:Hanoi
+349:Achira:Bhamini:Andorra 
+350:Bhuvi:Bel:Egypt 
+351:Ania:Bhavya:Kampala
+352:Amitjyoti:Anchala:Italy 
+353:Barsha:Bhairavi:Mogadishu
+354:Baka:Anandi:Panama City
+355:Ahalya:Ananda:South Sudan 
+356:Alda:Aatmaja:Monaco
+357:Ami:Akshadha:Harare
+358:Benaka:Bimala:Doha
+359:Aashritha:Aarika:Greece 
+360:Ahalya:Anjana:Liberia 
+361:Bhanuja:Aaniya:Tokyo
+362:Aarika:Bhanuni:Thimphu
+363:Bel:Binita:Antigua & Barbuda 
+364:Bimbi:Anjali:Lima
+365:Anandani:Akhila:Rwanda 
+366:Aathmika:Aamaal:Switzerland 
+367:Anisa:Bipasha:Riga
+368:Bageshri:Ahalya:Indonesia 
+369:Amrapali:Ablaa:Port-of-Spain
+370:Akashleena:Anarghya:United States of America 
+371:Anjika:Ananda:Botswana 
+372:Agrima:Akira:Valletta
+373:Bavishya:Bhuvi:Micronesia 
+374:Aadita:Anbar:Yaounde
+375:Anishka:Brahmani:El Salvador 
+376:Barsha:Amidi:South Africa 
+377:Brijabala:Aashni:Grenada 
+378:Agrima:Amara:Suva
+379:Adwita:Brahmani:Paris
+380:Aadita:Amlika:Lusaka
+381:Bulbul:Agrima:Bissau - Bissau
+382:Bhavya:Anchita:Kingstown
+383:Bhawna:Aamani:Burundi 
+384:Anilaja:Aarini:Banjul
+385:Abhijita:Aastha:Albania 
+386:Bala:Ankal:Maseru
+387:Akriti:Bhaumi:Bolivia 
+388:Ami:Abhirami:Benin 
+389:Ambaalika:Anita:Santiago
+390:Aanandita:Bavishya:Nepal 
+391:Bhamini:Anima:Tegucigalpa
+392:Aniya:Brijabala:Mbabane
+393:Alak:Anbar:Belmopan
+394:Advika:Anandani:Tarawa Atoll
+395:Bandhura:Bhavna:Accra
+396:Bhanu:Aaratrika:Astana
+397:Ajastha:Ajala:Bogota
+398:Bishakha:Bhoomi:Benin 
+399:Adwitiya:Briti:Cambodia 
+400:Aabha:Anandani:London
+401:Agrata:Brinda:Montenegro 
+402:Amba:Bakul:Yerevan
+403:Amulya:Advika:Russia 
+404:Ana:Bhumika:Asuncion
+405:Ambuda:Aashi:Kyiv
+406:Amoolya:Aarika:Guatemala City
+407:Amritaya:Anjalee:Bosnia & Herzegovina 
+408:Abhirami:Bidisha:India 
+409:Bhamini:Akshadha:Iceland 
+410:Alaina:Abishta:Baghdad
+411:Amaris:Bijli:Jordan 
+412:Bindhiya:Ahimsa:Jakarta
+413:Aanchal:Bhagyawati:Djibouti 
+414:Bageshri:Amita:Bhutan 
+415:Barkha:Aanchal:Islamabad
+416:Achala:Aarna:Copenhagen
+417:Ambika:Alisha:Japan 
+418:Anjushri:Amithi:Uruguay 
+419:Bhama:Bandhavi:Vaiaku village, Funafuti province
+420:Adhira:Aakanksha:Dublin
+421:Anemone:Akane:Lusaka
+422:Aakanksha:Bhaumi:Comoros 
+423:Belli:Bahula:Kabul
+424:Anahita:Anita:Lome
+425:Bidisha:Bhagavathi:Kuala Lumpur
+426:Ana:Barsha:Mogadishu
+427:Amrapali:Bhagavathi:Dar es Salaam; Dodoma (legislative)
+428:Amara:Akira:Riyadh
+429:Bulbul:Bhama:San Jose
+430:Ahalya:Bavishni:San Salvador
+431:Anika:Amrusha:Turkey 
+432:Alakananda:Aahna:Asuncion
+433:Aarti:Anjali:Andorra 
+434:Aaradhya:Amlika:Washington D.C.
+435:Aanchal:Achala:Sofia
+436:Bidisha:Bahugandha:Nepal 
+437:Amita:Anamika:Denmark 
+438:Akanksha:Ammu:Poland 
+439:Aahlaadita:Bhamini:Hanoi
+440:Abhitha:Amara:Hungary 
+441:Bageshri:Anantaa:Nuku'alofa
+442:Aaral:Ambar:Mali 
+443:Bahugandha:Babita:Bahrain 
+444:Binita:Bhavika:Tarawa Atoll
+445:Bhavi:Abhiri:Jakarta
+446:Bani:Akshayaa:Colombo; Sri Jayewardenepura Kotte (
+447:Angarika:Bhaumi:Colombo; Sri Jayewardenepura Kotte (
+448:Bodhi:Amitrasudan:Finland 
+449:Adwitiya:Anchala:Doha
+450:Bhagwati:Bhupali:Bhutan 
+451:Akhila:Amoda:San Marino
+452:Bandhavi:Aadrika:Ghana 
+453:Akula:Aapti:Comoros 
+454:Anagha:Aamaal:Nepal 
+455:Bakula:Anandita:Kyrgyzstan 
+456:Baruni:Amolika:Majuro
+457:Akashleena:Anju:Vaduz
+458:Abhipsa:Bandhavi:Honiara
+459:Ankal:Agrata:Chile 
+460:Bhagyawati:Bhanu:United Arab Emirates 
+461:Aahlaadita:Anisa:Bandar Seri Begawan
+462:Bindhiya:Anjini:Kuwait 
+463:Aakriti:Aishwarya:Sao Tome and Principe 
+464:Angoori:Achla:Botswana 
+465:Aashni:Bani:Zagreb
+466:Angarika:Bhrithi:Norway 
+467:Anisa:Bhavana:Tokyo
+468:Bhavna:Ambar:Rangoon (Yangon); Nay Pyi Taw (admin
+469:Ambika:Akshadha:Korea South 
+470:Ajaya:Bakul:Bratislava
+471:Abishta:Aaloka:Cambodia 
+472:Amishi:Bidisha:Madagascar 
+473:Akashleena:Briti:Saint John's
+474:Aashni:Bhamini:Madagascar 
+475:Bakul:Akshata:no official capital; government offi
+476:Aashiyana:Anita:Ashgabat
+477:Aja:Ambu:Spain 
+478:Alka:Adya:Bishkek
+479:Abirami:Almas:Lilongwe
+480:Benaka:Bhavna:Sofia
+481:Anjini:Ajastha:Serbia 
+482:Aadrika:Bhrithi:Grenada 
+483:Alpita:Akshara:Somalia 
+484:Anchala:Basabi:Zagreb
+485:Anisha:Anarghya:Kenya 
+486:Bimala:Amal:Abuja
+487:Anagi:Anjum:Philippines 
+488:Ajala:Ambaalika:Al-Manamah
+489:Anamika:Bhagwati:Caracas
+490:Bhumika:Bakula:Accra
+491:Almas:Abishta:Brazzaville
+492:Agnishikha:Aahlaadita:Sao Tome
+493:Anishka:Agamya:Saint Lucia 
+494:Bavishya:Alaknanda:Phnom Penh
+495:Bhoomi:Aamrapali:Madagascar 
+496:Abhirupa:Briti:Tuvalu 
+497:Bhrithi:Amishta:Paraguay 
+498:Abha:Aashiyana:Tbilisi
+499:Anamika:Bakul:Luxembourg
+500:Bhadra:Banhi:Oman 
+501:Amita:Ajala:Thimphu
+502:Bijali:Bimala:Vietnam 
+503:Aasia:Aboli:Hanoi
+504:Abhipsa:Briti:Ouagadougou
+505:Abhirupa:Aashritha:Dushanbe
+506:Bhanuja:Bhagyalakshmi:Minsk
+507:Amukta:Barkha:South Africa 
+508:Ambaalika:Bhagavathi:Argentina 
+509:Ambu:Bijli:Hanoi
+510:Aamani:Bipasha:Asmara
+511:Anjika:Bhamini:Lithuania 
+512:Bindu:Aboli:Juba
+513:Aniha:Agamya:Athens
+514:Binita:Ajastha:Ireland 
+515:Angoori:Anilaja:Moscow
+516:Banmala:Aaloka:Bogota
+517:Bijali:Aboli:Bamako
+518:Anantaa:Agamya:Cyprus 
+519:Abhitha:Akhila:Lisbon
+520:Abhiri:Anbar:Portugal 
+521:Ajita:Aarti:Lisbon
+522:Alpana:Aashiyana:Madrid
+523:Abhijaata:Bijali:Ashgabat
+524:Anchala:Ambuda:Mogadishu
+525:Anamika:Aaloka:Valletta
+526:Aghanashini:Amrita:Kyrgyzstan 
+527:Banmala:Bhadrusha:Algiers
+528:Anandita:Bavishya:Thailand 
+529:Anandmayee:Benaka:Burundi 
+530:Aamani:Bidisha:Beijing
+531:Bhavika:Bhuvi:Guatemala City
+532:Ananda:Akashleena:Comoros 
+533:Aarini:Baijanti:Papua New Guinea 
+534:Aashalata:Brinda:Russia 
+535:Alopa:Alka:Jakarta
+536:Anishka:Anavi:Palau 
+537:Amoolya:Amaldeepti:Samoa 
+538:Ahladita:Analaa:Luxembourg 
+539:Amishi:Bhanuni:Tegucigalpa
+540:Ania:Abirami:Micronesia 
+541:Bageshri:Bulbul:Montevideo
+542:Bhooma:Anahita:Leste
+543:Bageshri:Bidisha:Dushanbe
+544:Bulbul:Alankrita:Uruguay 
+545:Amritaya:Basabi:Cambodia 
+546:Analaa:Amaris:Congo Democratic Republic of the 
+547:Bijli:Aarna:Cape Verde 
+548:Aahna:Bhagini:Chisinau
+549:Aishi:Bijli:Vaduz
+550:Barkha:Bakula:Tbilisi
+551:Bahula:Amodini:Guinea
+552:Banhi:Abhisarika:Djibouti 
+553:Brahmani:Aarushi:San Marino
+554:Bipasha:Bhavini:Syria 
+555:Aadhya:Aashiyana:Havana
+556:Analaa:Ambaalika:Philippines 
+557:Ankolika:Akane:Guinea
+558:Aaradhya:Akriti:Palau 
+559:Bhagyashri:Amala:Swaziland 
+560:Bhagyalakshmi:Advika:Bhutan 
+561:Aghanashini:Aadarshini:Vatican City
+562:Aahna:Bimala:N'Djamena
+563:Ajaa:Aditi:Denmark 
+564:Aniha:Aboli:India 
+565:Amisha:Bindhiya:Afghanistan 
+566:Advika:Bakula:Skopje
+567:Amishi:Anisa:Syria 
+568:Ananya:Babita:Georgetown
+569:Bani:Bhavya:Maldives 
+570:Bhamini:Aarini:Belize 
+571:Alakananda:Bimala:Tanzania 
+572:Agnishikha:Adwitiya:Luxembourg 
+573:Alpa:Anita:Korea North 
+574:Achira:Akshadha:Paraguay 
+575:Ajaa:Amodini:Luanda
+576:Amrutha:Alopa:Belgium 
+577:Alpita:Ahladita:Kabul
+578:Achira:Bhupali:Somalia 
+579:Amaldeepti:Aadhya:Santiago
+580:Bhakti:Anisa:Apia
+581:Bhawna:Anishka:Spain 
+582:Bidisha:Aaniya:Turkmenistan 
+583:Amoolya:Aastha:Tehran
+584:Adrika:Amaris:Zimbabwe 
+585:Amrusha:Aishi:Monrovia
+586:Bavishni:Anjum:Croatia 
+587:Anjushri:Abhiri:Vientiane
+588:Aamrapali:Adya:Guatemala 
+589:Abhimani:Bijli:Port-of-Spain
+590:Abha:Anangee:Kampala
+591:Bhuvi:Bhanusri:Syria 
+592:Ananya:Anjana:Nicosia
+593:Akira:Aadrika:Vietnam 
+594:Aadarshini:Bina:Vaduz
+595:Alda:Aloki:Monaco
+596:Bulbul:Amishi:Jamaica 
+597:Aarushi:Baijanti:Nauru 
+598:Aaral:Bishakha:Liechtenstein 
+599:Ana:Bavishya:Saint John's
+600:Bhoomi:Binita:Vientiane
+601:Anandani:Amulya:Kiribati 
+602:Ambu:Baijanti:Gambia 
+603:Amiti:Amoda:Male
+604:Akshata:Aabha:Bahamas 
+605:Ablaa:Ankal:Tegucigalpa
+606:Bhavi:Bhooma:Samoa 
+607:Bhuvi:Aamani:Brussels
+608:Alaina:Aamaal:Guatemala City
+609:Analaa:Baka:Helsinki
+610:Anindita:Aarushi:Malta 
+611:Aarti:Bel:Tarawa Atoll
+612:Abhisarika:Anita:Latvia 
+613:Bhanu:Amlika:Marshall Islands 
+614:Bhanuni:Bansari:Phnom Penh
+615:Aamani:Bhoomi:Cote d'Ivoire 
+616:Akashleena:Aanandi:Cuba 
+617:Aloki:Alisha:Kigali
+618:Bhavika:Amala:Praia
+619:Bulbul:Bhawna:Dushanbe
+620:Aadrika:Abhirami:Hanoi
+621:Adhira:Alaina:Maldives 
+622:Adwitiya:Amal:Tanzania 
+623:Bhagyalakshmi:Aja:Malabo
+624:Anbar:Barsha:Sao Tome and Principe 
+625:Bhargavi:Bhadrusha:Uganda 
+626:Anika:Aasia:Yerevan
+627:Bhamini:Aanandita:Dar es Salaam; Dodoma (legislative)
+628:Akshara:Amritkala:Nigeria 
+629:Alpana:Aakriti:United States of America 
+630:Ablaa:Bavishya:Taipei
+631:Aishi:Anamika:Bhutan 
+632:Aanandamayee:Aashni:Vilnius
+633:Aanandi:Almas:San Jose
+634:Bhavana:Ajita:Poland 
+635:Bhanumati:Bhagwati:Slovenia 
+636:Aghanashini:Bhumika:Harare
+637:Akhila:Bageshri:N'Djamena
+638:Anandi:Bavishni:Harare
+639:Bhuvi:Ajita:Lima
+640:Banni:Abhiri:New Delhi
+641:Bijal:Anika:Victoria
+642:Bhupali:Anjini:Ecuador 
+643:Aarti:Bhupali:Grenada 
+644:Bhanumati:Bina:Roseau
+645:Bhagyawati:Ahimsa:Ankara
+646:Alekhya:Anagha:Copenhagen
+647:Bhagyashri:Barkha:Lebanon 
+648:Bhawna:Anarghya:Pyongyang
+649:Anjali:Alka:Islamabad
+650:Aaratrika:Bhagyawati:Muscat
+651:Amitjyoti:Akshita:Havana
+652:Amukta:Brinda:Venezuela 
+653:Ambika:Bhumika:Ljubljana
+654:Banmala:Achira:Bucharest
+655:Abhitha:Abhirupa:Lithuania 
+656:Ambuda:Bhanu:Sofia
+657:Alekhya:Ankolika:Cameroon 
+658:Abishta:Aadrika:Kosovo 
+659:Barkha:Amritkala:Bulgaria 
+660:Angana:Bhandhavi:Ottawa
+661:Bulbul:Bimbi:Libya 
+662:Abhirupa:Akira:Denmark 
+663:Anilaja:Aabharana:Georgetown
+664:Aashni:Bhandhavi:Sarajevo
+665:Aamrapali:Abhipsa:Nauru 
+666:Akuti:Amaldeepti:Ouagadougou
+667:Angana:Bijal:Australia 
+668:Aaloka:Adishakti:Latvia 
+669:Amaldeepti:Abhira:Belize 
+670:Ambuja:Aahlaadita:Albania 
+671:Alisha:Abirami:Vatican City (Holy See) 
+672:Bulbul:Bimbi:Hungary 
+673:Adhishree:Bhagyawati:Honduras 
+674:Aasia:Briti:Nauru 
+675:Aadrika:Anamitra:Harare
+676:Anjana:Alaina:Asmara
+677:Abhisarika:Agamya:Burundi 
+678:Anika:Barsha:France 
+679:Aarini:Bhanu:Uruguay 
+680:Ambika:Bhavi:Antigua & Barbuda 
+681:Akashleena:Amlika:Peru 
+682:Bageshri:Amodini:Oslo
+683:Amitjyoti:Abhilasha:Kinshasa
+684:Ana:Anju:Thimphu
+685:Anju:Akanksha:Grenada 
+686:Ananya:Banni:Sao Tome and Principe 
+687:Bharati:Bhamini:Pyongyang
+688:Ahladita:Aapti:Solomon Islands 
+689:Bhama:Bhanuja:Seychelles 
+690:Angha:Alda:Seoul
+691:Basanti:Ajastha:Solomon Islands 
+692:Adrika:Bharavi:Nepal 
+693:Alisha:Anilaja:Bogota
+694:Anagi:Almas:Oman 
+695:Alka:Baka:Minsk
+696:Amritambu:Bandhavi:Ljubljana
+697:Bhagwati:Angana:Tripoli
+698:Aabha:Anbar:Benin 
+699:Anjani:Brijabala:Senegal 
+700:Amoolya:Bel:Managua
+701:Abhimani:Achla:Bulgaria 
+702:Bhavini:Adhishree:Guinea
+703:Aashni:Bindhiya:Chile 
+704:Aayushi:Bhupali:United Kingdom 
+705:Amoda:Amita:Bhutan 
+706:Anjali:Aaratrika:Vatican City (Holy See) 
+707:Adhishree:Bhandhavi:Yerevan
+708:Amal:Aashi:Dakar
+709:Amla:Ambuda:Muscat
+710:Amla:Ahimsa:Saint George's
+711:Bhagyashri:Ana:Finland 
+712:Anisa:Aditri:Male
+713:Bhavi:Bhagwanti:Lome
+714:Bhairavi:Bhamini:San Jose
+715:Bakul:Alak:Tarawa Atoll
+716:Agrima:Aamrapali:Lilongwe
+717:Alka:Adhishree:Praia
+718:Abhiri:Ananti:Slovakia 
+719:Adishakti:Agrata:N'Djamena
+720:Abhiruchi:Alpana:Ghana 
+721:Angoori:Bijal:Luanda
+722:Amvi:Bhadrusha:Dar es Salaam; Dodoma (legislative)
+723:Aditri:Baka:Mogadishu
+724:Akhila:Ankaiyarkanni:Dominica 
+725:Bavishya:Aashna:Maputo
+726:Anjushri:Bairavi:Austria 
+727:Amvi:Ambuda:Lesotho 
+728:Angha:Amoolya:Ashgabat
+729:Anima:Bhoomi:Lithuania 
+730:Akriti:Aayushi:Asmara
+731:Amitjyoti:Bakula:United Arab Emirates 
+732:Ana:Bel:Finland 
+733:Akshita:Alpana:Sofia
+734:Aanandi:Amidi:Nepal 
+735:Aakriti:Bala:Equatorial Guinea 
+736:Bani:Anavi:Abu Dhabi
+737:Adwitiya:Bageshri:Grenada 
+738:Amshula:Bhrithi:Chisinau
+739:Bimbi:Bhooma:New Zealand 
+740:Aaradhya:Alekhya:Beijing
+741:Ania:Ananti:Paramaribo
+742:Anika:Amba:Windhoek
+743:Anishka:Aashiyana:Macedonia 
+744:Amulya:Agnishikha:Guatemala 
+745:Angoori:Bimbi:Estonia 
+746:Aahna:Amita:Macedonia 
+747:Akuti:Bijli:Gambia 
+748:Banhi:Abhijaata:Guinea 
+749:Bela:Bimala:Brunei 
+750:Aaradhya:Bhadra:Zagreb
+751:Aamaal:Akshara:San Marino
+752:Basanti:Ajala:Tokyo
+753:Bakula:Alak:Montenegro 
+754:Baka:Amaris:Botswana 
+755:Aarti:Bakul:Vaiaku village, Funafuti province
+756:Abhipsa:Ankolika:South Africa 
+757:Amba:Akshata:Costa Rica 
+758:Abishta:Amritambu:Vienna
+759:Akshayaa:Aarohi:Bishkek
+760:Anima:Alpa:Senegal 
+761:Alankrita:Ablaa:Port-of-Spain
+762:Ambika:Aghanashini:Iraq 
+763:Amrita:Bandhura:Tashkent
+764:Akshata:Anjali:Liechtenstein 
+765:Anju:Angaja:Beijing
+766:Anjika:Abhitha:Turkey 
+767:Akhila:Aastha:Quito
+768:Akshata:Anamitra:Dominica 
+769:Anagi:Bani:Dominican Republic 
+770:Aja:Bhupali:Bujumbura
+771:Ahladita:Aloki:Saint John's
+772:Bhooma:Amritambu:Spain 
+773:Aloki:Angha:Doha
+774:Bharati:Amrapali:Gambia 
+775:Abhimani:Bijal:Dominica 
+776:Akshainie:Angaja:United Kingdom 
+777:Brahmani:Angarika:Asmara
+778:Bhuvana:Amlankusum:Guinea 
+779:Angaja:Aniya:Jamaica 
+780:Anagha:Aishani:Singapore 
+781:Amoolya:Bhavi:Pretoria (executive); Cape Town (leg
+782:Anandani:Amoolya:Abuja
+783:Aarna:Ablaa:Kampala
+784:Bina:Baruni:Cote d'Ivoire 
+785:Bahula:Bandhavi:Israel 
+786:Alankrita:Aamrapali:Tanzania 
+787:Adhira:Alankrita:Brasilia
+788:Amishi:Aarti:Senegal 
+789:Anindita:Akshita:Asmara
+790:Akshayaa:Akula:Warsaw
+791:Bhoomi:Bhadra:Cambodia 
+792:Bishakha:Ajita:Khartoum
+793:Banni:Akhila:Lithuania 
+794:Adwitiya:Bhooma:Uzbekistan 
+795:Bhargavi:Anisha:Djibouti 
+796:Bhoomi:Aaniya:Madrid
+797:Aadita:Ambuja:Belgium 
+798:Babita:Alaka:Ukraine 
+799:Adhishree:Bhagyawati:Nigeria 
+800:Aashna:Amla:United Kingdom 
+801:Belli:Adya:Turkey 
+802:Aanchal:Ana:Afghanistan 
+803:Anjalee:Aanandi:Singapore
+804:Aaniya:Aarini:Castries
+805:Ajaa:Ananya:Senegal 
+806:Anita:Aanandi:Prague
+807:Anamika:Ankal:Morocco 
+808:Aanandi:Bharavi:Cyprus 
+809:Bhavya:Alaina:Chile 
+810:Aarika:Abha:Bissau - Bissau
+811:Angira:Abhijita:Tashkent
+812:Abhiri:Bhoomi:India 
+813:Bela:Bidisha:Benin 
+814:Alakananda:Anjana:Ankara
+815:Aatmaja:Akanksha:Phnom Penh
+816:Bavishya:Ajastha:Nouakchott
+817:Ambar:Amishta:Russia 
+818:Banni:Bhanuja:Port Moresby
+819:Bindhiya:Aarti:Guatemala City
+820:Amoolya:Anjana:Trinidad and Tobago 
+821:Alakananda:Aadita:Chad 
+822:Achala:Anisha:Victoria
+823:Brijabala:Aashna:San Marino 
+824:Abishta:Bhuvi:Palau 
+825:Bharavi:Akashleena:Afghanistan 
+826:Bhagavathi:Ajala:Algiers
+827:Bhadrusha:Bhaumi:Ukraine 
+828:Alaknanda:Amaldeepti:Beirut
+829:Anilaja:Ankita:Prague
+830:Anchala:Bhavya:Djibouti City
+831:Aarna:Agamya:Dakar
+832:Aboli:Bhumika:Nouakchott
+833:Akashleena:Bhavika:Singapore
+834:Anisa:Barkha:San Salvador
+835:Aghanashini:Amritambu:Harare
+836:Adishakti:Amolika:Mozambique 
+837:Anjum:Bala:Havana
+838:Bhama:Anavi:Amsterdam
+839:Ahladita:Anamitra:Damascus
+840:Ambika:Bhuvana:Tripoli
+841:Bhagirathi:Achira:Cuba 
+842:Abishta:Angaja:Stockholm
+843:Aaradhya:Adya:Uzbekistan 
+844:Ankaiyarkanni:Ablaa:Netherlands 
+845:Anjika:Akhila:Madrid
+846:Akshata:Bairavi:Saint Lucia 
+847:Alka:Angoori:Fiji 
+848:Baka:Abhilasha:Vanuatu 
+849:Ablaa:Amiti:Belmopan
+850:Aishi:Bimbi:Nepal 
+851:Alisha:Abhitha:Pristina
+852:Akanksha:Alpita:Bahrain 
+853:Bidisha:Ambika:Barbados 
+854:Ambar:Bhagwati:Mogadishu
+855:Anahita:Alka:Ankara
+856:Angarika:Amishta:Sweden 
+857:Amara:Anasuya:Tirana
+858:Bhanusri:Aniya:Phnom Penh
+859:Alisha:Amritaya:India 
+860:Bulbul:Akshara:Accra
+861:Amaldeepti:Aasha:Kyrgyzstan 
+862:Ami:Basanti:Malabo
+863:Anima:Alda:Ukraine 
+864:Bharati:Anjana:Leste
+865:Amaldeepti:Bhagavathi:Freetown
+866:Anasuya:Akriti:no official capital; government offi
+867:Akshainie:Bijal:Japan 
+868:Abhipsa:Ahimsa:Asuncion
+869:Akshata:Aaratrika:Netherlands 
+870:Aadita:Ambika:Astana
+871:Aishwarya:Aaratrika:Nauru 
+872:Baijanti:Agriya:no official capital; government offi
+873:Bala:Akira:Dushanbe
+874:Anandita:Bhandhavi:Jordan 
+875:Akula:Anisha:Honiara
+876:Anima:Aboli:Bangkok
+877:Ami:Bharati:Port Moresby
+878:Aamaal:Ankolika:Paramaribo
+879:Anita:Anandmayee:Russia 
+880:Aarushi:Abishta:Mbabane
+881:Aishwarya:Alda:Budapest
+882:Bhavika:Bhanuja:Kuala Lumpur
+883:Briti:Anemone:Paramaribo
+884:Anasuya:Aaloka:Costa Rica 
+885:Bijal:Bhanusri:Dakar
+886:Bhadra:Aaral:Al-Manamah
+887:Aaradhya:Anagi:Swaziland 
+888:Anchala:Anarghya:Libreville
+889:Anchal:Amisha:Benin 
+890:Ankaiyarkanni:Adwita:Mauritania 
+891:Aloki:Abhiri:Montevideo
+892:Amal:Anangee:Philippines 
+893:Alopa:Adya:Georgia 
+894:Ania:Ankal:Colombia 
+895:Akanksha:Bijali:Fiji 
+896:Barsha:Bijal:Guyana 
+897:Aboli:Anasuya:Barbados 
+898:Bairavi:Bhama:Myanmar (Burma) 
+899:Aishi:Aahlaadita:Russia 
+900:Aarti:Bhargavi:Lithuania 
+901:Angoori:Aaloka:Namibia 
+902:Bijal:Achala:Leste
+903:Amukta:Bhavana:Angola 
+904:Bhupali:Bhuvi:Georgia 
+905:Akshita:Bahugandha:Buenos Aires
+906:Analaa:Akhila:Tripoli
+907:Agnishikha:Adwiteya:Bangkok
+908:Brijabala:Bavishya:East Timor 
+909:Aishwarya:Aabharana:Bishkek
+910:Aarushi:Angoori:Sweden 
+911:Bhavani:Aanandamayee:Antigua & Barbuda 
+912:Agamya:Aabharana:Comoros 
+913:Aarushi:Bhavini:Malawi 
+914:Achala:Amala:Luxembourg 
+915:Banhi:Aditi:Bucharest
+916:Ananti:Anandita:Sweden 
+917:Ambar:Akira:Astana
+918:Anarghya:Bhaumi:Kuala Lumpur
+919:Akira:Bhavana:Haiti 
+920:Anjana:Aarna:Colombo; Sri Jayewardenepura Kotte (
+921:Amita:Aayushi:Netherlands 
+922:Bhagirathi:Alpita:Amsterdam
+923:Ania:Anagha:Tbilisi
+924:Bhadra:Bhairavi:Dakar
+925:Bhawna:Aaradhya:Asuncion
+926:Anandani:Anjini:Kingstown
+927:Ajala:Bijli:Chile 
+928:Anjani:Bhamini:Kuala Lumpur
+929:Anavi:Anilaja:Tallinn
+930:Ankita:Bhuvi:Niamey
+931:Adrika:Ambuja:Saint Vincent and the Grenadines 
+932:Bandhura:Anjini:Libreville
+933:Ahalya:Alaina:Port Moresby
+934:Alakananda:Aditri:Zambia 
+935:Aniha:Briti:Stockholm
+936:Alekhya:Abhiruchi:Majuro
+937:Amrapali:Ambar:Italy 
+938:Babita:Amrusha:Peru 
+939:Bhadrusha:Bhavini:Saudi Arabia 
+940:Abha:Aja:Tehran
+941:Ahimsa:Bhanu:Majuro
+942:Ammu:Amrutha:Addis Ababa
+943:Abirami:Abhiruchi:Central African Republic 
+944:Anarghya:Alda:Freetown
+945:Agnishikha:Amitjyoti:Gabon 
+946:Bindhiya:Bairavi:Chisinau
+947:Amithi:Bimala:Taiwan 
+948:Bhanuja:Alakananda:Managua
+949:Aditi:Alda:Kyiv
+950:Bhavya:Anavi:Podgorica
+951:Bhamini:Aamrapali:Paris
+952:Anamitra:Adya:Vientiane
+953:Amritrashmi:Abhiri:Algeria 
+954:Amritkala:Amithi:Togo 
+955:Aamaal:Anahita:Quito
+956:Bahugandha:Aabha:Eritrea 
+957:Abhijaata:Anagi:Vienna
+958:Amal:Amishi:Haiti 
+959:Bhadrusha:Anisa:Monaco
+960:Bindu:Ananda:Minsk
+961:Aakriti:Alpa:Bangladesh 
+962:Alankrita:Aasia:Thailand 
+963:Amishta:Beena:Tehran
+964:Akshainie:Ananya:Somalia 
+965:Bharati:Amitrasudan:Spain 
+966:Akshara:Bhamini:Oslo
+967:Akira:Alpita:Costa Rica 
+968:Aanandamayee:Anishka:Rwanda 
+969:Aboli:Bhanupriya:Khartoum
+970:Banni:Barkha:Skopje
+971:Aadita:Akshara:Tajikistan 
+972:Amara:Anjani:Malaysia 
+973:Bhuvana:Bodhi:Accra
+974:Bhanuni:Ambika:Buenos Aires
+975:Akshara:Alaknanda:Austria 
+976:Abhipsa:Adishakti:Baku
+977:Alekhya:Abhimani:Sofia
+978:Aamani:Amulya:Kuwait City
+979:Anavi:Alda:Andorra la Vella
+980:Aaratrika:Amiya:India 
+981:Anisa:Akashleena:Riyadh
+982:Anantaa:Anjushri:Netherlands 
+983:Amaris:Bijli:Algiers
+984:Amita:Anandi:Jordan 
+985:Angarika:Agamya:Banjul
+986:Alpa:Anjana:Panama City
+987:Adishakti:Aniya:Libya 
+988:Amrita:Abhimani:Egypt 
+989:Bijali:Amritkala:Male
+990:Aahna:Amritrashmi:Equatorial Guinea 
+991:Bhanusri:Bharavi:Thimphu
+992:Adishakti:Bhoomi:Zambia 
+993:Aashalata:Abhaya:Canada 
+994:Ankolika:Bhagyashri:Port Moresby
+995:Bharavi:Bina:Liechtenstein 
+996:Anandani:Bela:Finland 
+997:Bhagyashri:Amolika:Dublin
+998:Aashalata:Amiti:Pyongyang
+999:Advika:Aaloka:Skopje
+1000:Ankolika:Aadarshini:Lome

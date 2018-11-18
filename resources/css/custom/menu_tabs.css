@@ -1,0 +1,149 @@
+/***
+Bootstrap Line Tabs by @keenthemes
+A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: http://j.mp/metronictheme
+Licensed under MIT
+***/
+
+/* Tabs panel */
+.tabbable-panel {
+  /*border:1px solid #eee;*/
+  padding: 10px;
+}
+
+/* Default mode */
+.tabbable-line > .nav-tabs {
+  border: none;
+  margin: 0px;
+}
+.tabbable-line > .nav-tabs > li {
+  margin-right: 2px;
+}
+.tabbable-line > .nav-tabs > li > a {
+  border: 0;
+  margin-right: 0;
+  color: #737373;
+}
+.tabbable-line > .nav-tabs > li > a > i {
+  color: #a6a6a6;
+}
+.tabbable-line > .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {
+  border-bottom: 4px solid #fbcdcf;
+}
+.tabbable-line > .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+  border: 0;
+  background: white !important;
+  font-weight:bold;
+  color: #333333;
+}
+.tabbable-line > .nav-tabs > li.open > a > i, .tabbable-line > .nav-tabs > li:hover > a > i {
+  color: #a6a6a6;
+}
+.tabbable-line > .nav-tabs > li.open .dropdown-menu, .tabbable-line > .nav-tabs > li:hover .dropdown-menu {
+  margin-top: 0px;
+}
+.tabbable-line > .nav-tabs > li.active {
+  border-bottom: 4px solid #f3565d;
+  position: relative;
+}
+.tabbable-line > .nav-tabs > li.active > a {
+  /*border: 0;*/
+  color: #333333;
+}
+.tabbable-line > .nav-tabs > li.active > a > i {
+  color: #404040;
+}
+.tabbable-line > .tab-content {
+  margin-top: -3px;
+ /* background-color: #fff;*/
+  border: 0;
+  border-top: 1px solid #eee;
+  padding: 15px 0;
+}
+.portlet .tabbable-line > .tab-content {
+  padding-bottom: 0;
+}
+
+/* Below tabs mode */
+
+.tabbable-line.tabs-below > .nav-tabs > li {
+  border-top: 4px solid transparent;
+}
+.tabbable-line.tabs-below > .nav-tabs > li > a {
+  margin-top: 0;
+}
+.tabbable-line.tabs-below > .nav-tabs > li:hover {
+  border-bottom: 0;
+  border-top: 4px solid #fbcdcf;
+}
+.tabbable-line.tabs-below > .nav-tabs > li.active {
+  margin-bottom: -2px;
+  border-bottom: 0;
+  border-top: 4px solid #f3565d;
+}
+.tabbable-line.tabs-below > .tab-content {
+  margin-top: -10px;
+  border-top: 0;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
+}@CHARSET "ISO-8859-1";
+/*custom style */
+.active{
+	font-weight:bold;
+	color:white;
+}
+.wp-theme-1 a {
+color: black !important;
+font-size:bold;
+cursor: pointer;
+}
+
+.tabbable-line{
+	margin-bottom:15px;
+}
+
+.bord {
+font-weight: bold;
+margin-top: 38px;
+}
+/*custom*/
+.active1>a
+{
+color: #FC0505 !important;
+background-color: #fff !important;
+border-radius: 0 !important;
+}
+dropdown-menu > li > a {
+display: block !important;
+clear: both !important;
+font-weight: bold !important;
+line-height: 1.42857143 !important;
+color: #333 !important;
+white-space: nowrap !important;
+}
+.active1>a:hover
+{
+color: #fff !important;
+background-color: #6699FF !important;
+border-radius: 0 !important;
+}
+.wp-theme-1 .navbar-wp .navbar-nav>.active>a, .wp-theme-1 .navbar-wp .navbar-nav>.active>a:hover, .wp-theme-1 .navbar-wp .navbar-nav>.active>a:focus {
+color: #FC0505!important;
+background-color: #fff !important;
+
+}
+.wp-theme-1 .lw .navbar-wp .navbar-nav>li>a:hover,#navOne > div > div.navbar-collapse.collapse > ul > li.dropdown > ul > li:nth-child(1) > a:hover,#navOne > div > div.navbar-collapse.collapse > ul > li.dropdown.open > ul > li:nth-child(2) > a:hover
+{
+color: #FC0505 !important;
+background-color: #fff !important;
+border-radius: 0 !important;
+}
+.wp-theme-1 .lw .navbar-wp .navbar-nav>li>a:focus {
+color: #fff;
+background-color:#fff;
+}
+media="screen"
+.wp-theme-1 .navbar-wp .dropdown-menu>li>a {
+color: #333 !important;;
+padding: 8px 15px !important;;
+font-weight: bold !important;
+}	

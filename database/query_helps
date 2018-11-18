@@ -1,0 +1,5 @@
+/*SELECTING COLUMN FROM DIFFERENT TABLES */
+set @a=0,@b=0;select location.serial_number,location.name,person_name.name 
+from (select  @a:=@a+1 serial_number, name from location where name not like '%A%') as location,
+(select @b:=@b+1 serial_number,name from person_name) as person_name where location.serial_number=person_name.serial_number
+
